@@ -213,7 +213,7 @@ slideshow-component:not(.page-width) .slider-buttons {
   display: none;
 }
 
-.banner__heading inline-richtext h1{
+.banner__heading inline-richtext{
   color: #ffffff;
 }
 
