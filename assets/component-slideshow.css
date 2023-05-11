@@ -212,3 +212,11 @@ slideshow-component:not(.page-width) .slider-buttons {
 .slideshow__autoplay.slider-button{
   display: none;
 }
+
+.banner__heading inline-richtext h1{
+  color: #ffffff;
+}
+
+.slider.slider--everywhere .slider__slide{
+  color: #ffffff;
+}
