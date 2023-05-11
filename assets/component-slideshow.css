@@ -208,3 +208,7 @@ slideshow-component:not(.page-width) .slider-buttons {
 .slideshow__text.banner__box{
   background: transparent;
 }
+
+.slideshow__autoplay.slider-button{
+  display: none;
+}
